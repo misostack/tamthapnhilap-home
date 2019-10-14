@@ -1,0 +1,5 @@
+baseURL = "http://tamthapnhilap.site/"
+languageCode = "vi-vn"
+title = "Tam thập Nhi Lập"
+theme = "ananke"
+publishDir = "docs"
